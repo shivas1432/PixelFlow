@@ -1,3 +1,4 @@
+﻿// Pattern System Components | PixelFlow by Shivashanker
 "use client";
 
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@radix-ui/react-tabs";
@@ -216,3 +217,4 @@ export default function PatternShowcase({
     </section>
   );
 }
+

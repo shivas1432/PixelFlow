@@ -1,3 +1,4 @@
+﻿// Pattern System Components | PixelFlow by Shivashanker
 "use client";
 
 import { Palette, Star } from "lucide-react";
@@ -63,3 +64,4 @@ export default function PatternEmptyState({
     </div>
   );
 }
+
