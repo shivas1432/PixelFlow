@@ -1,3 +1,4 @@
+﻿// Utility functions and hooks | PixelFlow
 import { Pattern } from "@/types/pattern";
 
 export const gridPatterns: Pattern[] = [
@@ -3008,15 +3009,15 @@ export const gridPatterns: Pattern[] = [
         "radial-gradient(ellipse 80% 60% at 50% 0%, rgba(120, 180, 255, 0.25), transparent 70%), #000000",
     },
     code: `<div className="min-h-screen w-full relative bg-black">
-    {/* X Organizations Black Background with Top Glow */}
-    <div
-      className="absolute inset-0 z-0"
-      style={{
-       background: "radial-gradient(ellipse 80% 60% at 50% 0%, rgba(120, 180, 255, 0.25), transparent 70%), #000000",
-      }}
-    />
+  Â  {/* X Organizations Black Background with Top Glow */}
+  Â  <div
+  Â  Â  className="absolute inset-0 z-0"
+  Â  Â  style={{
+  Â  Â   background: "radial-gradient(ellipse 80% 60% at 50% 0%, rgba(120, 180, 255, 0.25), transparent 70%), #000000",
+  Â  Â  }}
+  Â  />
   
-    {/* Your Content/Components */}
+  Â  {/* Your Content/Components */}
   </div>`,
   },
   {
