@@ -1,3 +1,4 @@
+﻿// UI Components and Layout | PixelFlow
 "use client";
 
 import { APP_CONFIG } from "@/lib/constants";
@@ -57,10 +58,11 @@ export default function Footer({ theme }: FooterProps) {
 
           {/* Copyright */}
           <p className="mt-4 text-xs opacity-70">
-            © {new Date().getFullYear()} PixelFlow. All rights reserved.
+            Â© {new Date().getFullYear()} PixelFlow. All rights reserved.
           </p>
         </div>
       </div>
     </footer>
   );
 }
+
