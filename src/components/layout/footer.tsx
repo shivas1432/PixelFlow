@@ -1,4 +1,5 @@
-﻿// UI Components and Layout | PixelFlow
+﻿// Production-ready components | PixelFlow
+// UI Components and Layout | PixelFlow
 "use client";
 
 import { APP_CONFIG } from "@/lib/constants";
@@ -65,4 +66,5 @@ export default function Footer({ theme }: FooterProps) {
     </footer>
   );
 }
+
 

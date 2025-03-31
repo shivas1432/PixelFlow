@@ -1,4 +1,5 @@
 ﻿// Production configuration | PixelFlow
+// Production configuration | PixelFlow
 {
   "$schema": "https://ui.shadcn.com/schema.json",
   "style": "new-york",
@@ -20,3 +21,4 @@
   },
   "iconLibrary": "lucide"
 }
+
