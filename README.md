@@ -150,10 +150,6 @@ These snippets work great for:
 - Background art
 - UI animations
 
-## Demo
-
-[Watch the demo video](https://github.com/user-attachments/assets/c283ecbc-8732-412b-adab-5c17d1a390cc)
-
 ## Customization
 
 ### Manual Pattern Customization
