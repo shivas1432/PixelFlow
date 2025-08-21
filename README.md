@@ -26,9 +26,7 @@
 
 
   <p align="center">
-<a href="https://vercel.com/oss">
-<img src="https://www.datocms-assets.com/31049/1618983297-powered-by-vercel.svg" alt="Powered by Vercel" height="40">
-</a>
+
 </p>
 
 ## Visit: **[PixelFlow](https://pixelflow.dev)**
