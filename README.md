@@ -26,7 +26,6 @@
 
 ---
 
-> **This project is proudly sponsored by [Vercel](https://vercel.com/oss). Thank you for supporting open source!**
 
   <p align="center">
 <a href="https://vercel.com/oss">
