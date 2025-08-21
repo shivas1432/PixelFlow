@@ -17,9 +17,7 @@
     <img src="https://img.shields.io/github/stars/shivas1432/PixelFlow?style=social" alt="GitHub stars" />
 <img src="https://img.shields.io/github/forks/shivas1432/PixelFlow?style=social" alt="GitHub forks" />
 <img src="https://img.shields.io/github/license/shivas1432/PixelFlow?style=social" alt="License" />
-<a href="https://vercel.com/oss">
-    <img src="https://img.shields.io/badge/Sponsored%20by-Vercel-000000?style=social&logo=vercel&logoColor=black" alt="Sponsored by Vercel" />
-</a>
+
     
   </p>
 </div>
