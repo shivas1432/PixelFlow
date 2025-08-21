@@ -74,15 +74,6 @@ Check out this growing list of shoutouts, showcases, and love from the community
 - **Tailwind CSS** - Utility-first CSS framework
 - **Vercel** - Deployment and hosting
 
-## Sponsored by <a href="https://vercel.com/oss">Vercel⚡</a>
-
-**This project is proudly powered by <b>Vercel</b>. The platform behind PixelFlow's blazing-fast deployment and seamless scalability.**<br>
-
-<i>Big thanks to Vercel for supporting open source and keeping this project running smoothly!</i>
-<br><br>
-<a href="https://vercel.com/oss">
-<img src="https://www.datocms-assets.com/31049/1618983297-powered-by-vercel.svg" alt="Powered by Vercel" height="40">
-</a>
 
 ## Getting Started
 
