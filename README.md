@@ -2,7 +2,7 @@
 
 ## How to Use This
 
-1. Visit the live site: **[https://pixelflow.com]([https://pixelflow.dev](https://pixelflowdesigns.netlify.app/))**
+1. Visit the live site: **[https://pixelflowdesigns.netlify.app](https://pixelflowdesigns.netlify.app)**
 2. Browse through the collection of background patterns and gradients.
 3. Click on any pattern to open its preview modal.
 4. Copy the CSS/Tailwind-compatible code snippet.
@@ -15,6 +15,7 @@ These snippets work great for:
 - Cards and sections
 - Background art
 - UI animations
+
 
 > _**For developers, by a developer. Design that flows⚡**_
 
