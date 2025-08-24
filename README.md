@@ -1,5 +1,21 @@
 # PixelFlow
 
+## How to Use This
+
+1. Visit the live site: **[https://pixelflow.com]([https://pixelflow.dev](https://pixelflowdesigns.netlify.app/))**
+2. Browse through the collection of background patterns and gradients.
+3. Click on any pattern to open its preview modal.
+4. Copy the CSS/Tailwind-compatible code snippet.
+5. Paste it into your project wherever needed — it's responsive, clean, and ready to flow!
+
+These snippets work great for:
+
+- Hero sections
+- Landing pages
+- Cards and sections
+- Background art
+- UI animations
+
 > _**For developers, by a developer. Design that flows⚡**_
 
 <div align="center">
@@ -120,21 +136,6 @@ npm run build
 npm start
 ```
 
-## How to Use This
-
-1. Visit the live site: **[https://pixelflow.dev](https://pixelflow.dev)**
-2. Browse through the collection of background patterns and gradients.
-3. Click on any pattern to open its preview modal.
-4. Copy the CSS/Tailwind-compatible code snippet.
-5. Paste it into your project wherever needed — it's responsive, clean, and ready to flow!
-
-These snippets work great for:
-
-- Hero sections
-- Landing pages
-- Cards and sections
-- Background art
-- UI animations
 
 ## Customization
 
